@@ -1,10 +1,6 @@
 ### Hi there! Josué here... 👋
 
- <div>
-  <a href="https://github.com/JnCM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JnCM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnCM&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Josue's github stats](https://github-readme-stats.vercel.app/api?username=JnCM&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JnCM&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
   
 <div> 
     <a href="mailto:josuenunes014@gmail.com" alt="Gmail">
